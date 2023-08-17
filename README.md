@@ -1,8 +1,15 @@
-My name is Júlio Nunes and I'm a programmer from Brazil.
+Meu nome é Júlio Nunes e sou atualmente um programador front end em ReactJS, também fazendo aplicações com NextJS e estou estudando Kotlin.
 
-- Front End Developer
+-   Front End Developer
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="40" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" ><img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" height="40" width="40" >
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/julinunes/)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julio-nt&layout=compact&bg_color=000&border_color=30A3DC&title_color=1414ff&text_color=FFF)
